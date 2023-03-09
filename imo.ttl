@@ -7,7 +7,7 @@ This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 Int
 -->
 	
 	<rdfs:Class rdf:about="http://iirds.tekom.de/iirds/domain/machinery#ConsumableSupply">
-		<rdfs:label xml:lang="de">Verbrauchmererial</rdfs:label>
+		<rdfs:label xml:lang="de">Verbraucdfdfhmererial</rdfs:label>
 		<rdfs:label xml:lang="en">Consumabledsdasdsad supply</rdfs:label>
 		<rdfs:subClassOf rdf:resource="http://iirds.tekom.de/iirds/domain/machinery#iirdsMachineryDomainEntity"/>
 		<rdfs:subClassOf rdf:resource="http://iirds.tekom.de/iirds#Supply"/>
